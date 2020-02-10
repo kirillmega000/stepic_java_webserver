@@ -17,7 +17,7 @@ import java.util.Map;
  *         <p>
  *         Описание курса и лицензия: https://github.com/vitaly-chibrikov/stepic_java_webserver
  */
-public class AllRequestsServlet extends HttpServlet {
+ public class AllRequestsServlet extends HttpServlet {
 
     public void doGet(HttpServletRequest request,
                       HttpServletResponse response) throws ServletException, IOException {
